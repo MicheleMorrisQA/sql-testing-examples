@@ -1,25 +1,26 @@
-# sql-testing-examples
+sql-testing-examples/
+│
+├── README.md
+│
+├── sql/
+│   ├── README.md
+│   │
+│   ├── transaction-testing/
+│   │   ├── 01_transaction_validation.sql
+│   │   ├── 02_successful_transactions.sql
+│   │   ├── 03_failed_transactions.sql
+│   │   └── ...
+│   │
+│   ├── data-integrity/
+│   ├── joins/
+│   ├── payments/
+│   ├── boundary-testing/
+│   └── reporting/
+│
+├── test-cases/
+├── test-plans/
+├── api-testing/
+├── defects/
+├── data-testing/
+└── qa-documentation/
 
-This repository contains SQL examples demonstrating database validation and data testing techniques used in QA.
-
-## QA Skills Demonstrated
-
-- SQL data validation
-- Database testing
-- Data integrity checks
-- Transaction validation
-- Duplicate data detection
-- Filtering and sorting
-- Aggregation and reporting
-- JOIN validation
-- Negative testing
-
-## Examples
-
-### 1. Validate Transaction Status
-
-```sql
-SELECT transaction_id, transaction_type, amount, status
-FROM transactions
-WHERE status = 'FAILED'
-ORDER BY created_at DESC;
