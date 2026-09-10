@@ -2,7 +2,7 @@
 
 Welcome to my QA Testing Portfolio.
 
-This repository contains practical examples of software quality assurance and testing, including SQL/database testing, manual test cases, test plans, API testing, defect documentation, data validation, and regression testing.
+This repository is a growing QA testing portfolio containing practical examples of SQL/database testing, manual test cases, data validation, API testing, defect documentation, and regression testing.
 
 The goal of this repository is to demonstrate how I approach testing from requirements and test design through execution, database validation, defect reporting, and regression testing.
 
