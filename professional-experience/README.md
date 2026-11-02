@@ -1,5 +1,5 @@
 **Professional Experience**
-Summary
+**Summary**
 
 Quality Engineering and Program Leadership professional with 20+ years across FinTech, banking technology, SaaS, HealthTech, utilities, and large enterprise platforms. My work has grown from hands-on software testing into QA management, release governance, risk management, automation strategy, and cross-functional program delivery.
 
