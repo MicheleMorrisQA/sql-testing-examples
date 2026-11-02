@@ -1,12 +1,12 @@
-Professional Experience
+**Professional Experience**
 Summary
 
 Quality Engineering and Program Leadership professional with 20+ years across FinTech, banking technology, SaaS, HealthTech, utilities, and large enterprise platforms. My work has grown from hands-on software testing into QA management, release governance, risk management, automation strategy, and cross-functional program delivery.
 
 I lead teams, bring structure to release and change processes, and keep stakeholders informed about progress, risk, and delivery readiness. I also stay hands-on when needed, investigating defects, data, APIs, and integrations until a problem is understood, resolved, and validated.
 
-Core Competencies
-Area	Highlights
+**Core Competencies**
+**Area	Highlights**
 Product & Domain SME	Deep end-to-end knowledge of banking, payments, and fintech platforms (onboarding, KYC, ACH, cards, ledger, billing, fraud) and enterprise systems (SAP, AS/400)
 QA Leadership & Management	Leading onshore and offshore QA teams, QA strategy, test planning, defect management, quality governance, UAT coordination
 Program & Delivery Management	Cross-functional coordination, dependency and priority management, risk identification, delivery readiness, stakeholder visibility
@@ -26,17 +26,18 @@ Applied Lean Six Sigma practices to improve QA processes and increase QA through
 Led automation initiatives that produced 190+ automated tests (TotalTrax)
 Established QA strategy, release readiness, and quality governance for a regulated FinTech and banking platform (DreamFi)
 Created and administered the company GitHub organization and helped establish sandbox, test, and Production environments on AWS (DreamFi)
-Product & Domain Expertise (Subject Matter Expert)
+
+**Product & Domain Expertise (Subject Matter Expert)**
 
 Beyond testing the products, I learn how they work end to end: the business rules, the data, the integrations, and where things break. Teams rely on me to explain how a product behaves, what a change will affect, and what the expected result should be.
 
-Product / Platform	Where	What I know well
+**Product / Platform	Where	What I know well**
 Banking & FinTech platform	DreamFi	Customer onboarding and KYC, ACH and financial transactions, card services, billing, ledger functionality, fraud prevention, banking operations, and the third-party banking integrations behind them
 Payments / lending platform	FinPay	Web and mobile workflows, APIs, Salesforce processes, and how data moves between third-party systems
 Enterprise utility systems	American Water	SAP, AS/400, web, mobile, and client-server applications serving 1,600+ municipalities in 16 states, including billing and customer-facing workflows
 Warehouse / logistics platform	TotalTrax	Core application workflows and the regression suite covering them (190+ automated tests)
 
-How I apply this expertise
+**How I apply this expertise**
 
 Serve as the go-to resource for how a feature should behave, which speeds up requirements review and test design
 Assess the impact of a change across connected systems before release
@@ -46,11 +47,11 @@ Train and onboard QA team members and stakeholders on product workflows
 Use that knowledge to support UAT, production investigations, and release go/no-go decisions
 DreamFi: Quality Engineering Leadership
 
-FinTech and banking environment
+**FinTech and banking environment**
 
 I provide overall QA direction and own quality strategy, release readiness, risk assessment, defect management, automation direction, and quality governance. The QA team began with five resources and now consists of three specialized roles covering web, mobile, and automation.
 
-Leadership and program responsibilities
+**Leadership and program responsibilities**
 
 Establish QA strategy and testing direction across web, mobile, and automation
 Manage release readiness and quality risk, and set validation expectations before Production releases
@@ -61,8 +62,8 @@ Make clear what is changing, what could go wrong, what is impacted, what testing
 Domain experience: customer onboarding, financial transactions, ACH, fraud prevention, banking operations, card services, KYC, billing, ledger functionality, third-party banking integrations. Regulated environments demand data integrity, traceability, documentation, controls, and evidence.
 
 Release governance approach: I evaluate risk based on evidence, business impact, test coverage, and the ability to validate the change.
-
-Technical and DevOps support
+**
+**Technical and DevOps support****
 
 Before a VP of Technology was hired, acted as DevOps resource and worked with offshore ledger developers to establish sandbox, test, and Production environments through GoDaddy and AWS
 Continued as a backup technical resource afterward
@@ -92,7 +93,7 @@ API testing: request and response validation, HTTP status codes, data consistenc
 Investigated issues across platforms rather than assuming failures originated in the application under test
 Technical Investigation & Problem Solving
 
-When something does not work as expected, I find out why. My approach:
+**When something does not work as expected, I find out why. My approach:**
 
 Understand the expected behavior
 Reproduce the issue when possible
@@ -102,15 +103,15 @@ Determine scope and business impact
 Work with the right technical teams
 Validate the implemented fix
 
-Tools: SQL, Postman, browser developer tools, test data, logs, dashboards, transaction and database information, API requests and responses.
+**Tools:** SQL, Postman, browser developer tools, test data, logs, dashboards, transaction and database information, API requests and responses.
 
 I translate findings for different audiences: engineers get technical evidence, while Product, Compliance, and Operations get business impact and next steps.
 
-AI in Quality Engineering
+**AI in Quality Engineering**
 
 I use Atlassian Rovo and Google Gemini for requirements analysis, test and scenario development, edge-case identification, defect analysis, documentation, traceability, knowledge management, and release-readiness work. AI accelerates analysis, but quality decisions still rest on technical judgment, domain knowledge, testing evidence, and human validation.
 
-Career Progression
+**Career Progression**
 
 Hands-on QA → QA team leadership → automation and quality engineering → release governance and risk management → cross-functional technical program leadership.
 
