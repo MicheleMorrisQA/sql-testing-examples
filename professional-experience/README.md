@@ -63,38 +63,35 @@ Domain experience: customer onboarding, financial transactions, ACH, fraud preve
 
 Release governance approach: I evaluate risk based on evidence, business impact, test coverage, and the ability to validate the change.
 **
-**Technical and DevOps support****
 
+**Technical and DevOps support****
 Before a VP of Technology was hired, acted as DevOps resource and worked with offshore ledger developers to establish sandbox, test, and Production environments through GoDaddy and AWS
 Continued as a backup technical resource afterward
 Created and administered the company GitHub organization: team access, seat management, repository administration, and GitHub usage for development and QA teams
-American Water: QA Leadership
 
+**American Water:** QA Leadership
 Enterprise utility environment, nearly 10 years
-
 Led QA and UAT activities for systems supporting 1,600+ municipalities across 16 states, spanning SAP, AS/400, web, mobile, and client-server applications.
-
 Led a QA team of 10 direct reports
 Managed test planning and execution, UAT support, and coordination with technical and business teams
 Administered HP ALM / Quality Center for test management, requirements traceability, test cycles, defect tracking, and QA reporting
 Supported SOX testing and audit activities, maintaining documentation, traceability, evidence, and controls
 Applied Lean Six Sigma practices to measure processes, find inefficiencies, and increase QA throughput by approximately 25%
 Gained experience in IT change management, compliance, approvals, implementation planning, and project documentation
-TotalTrax: Automation & Quality Engineering
+
+**TotalTrax:** Automation & Quality Engineering
 
 Led automation initiatives resulting in 190+ automated tests. My approach is to automate strategically: meaningful coverage, faster feedback, less repetitive manual work, stronger regression testing, and greater release confidence, so that people can focus on investigation, exploratory testing, and risk.
 
-FinPay: Cross-System QA
+**FinPay:** Cross-System QA
 
 Led QA operations across web, mobile, APIs, Salesforce, and third-party integrations.
-
 Functional, regression, and integration testing and validation of business workflows
 API testing: request and response validation, HTTP status codes, data consistency, error handling, required fields, and negative scenarios
 Investigated issues across platforms rather than assuming failures originated in the application under test
 Technical Investigation & Problem Solving
 
 **When something does not work as expected, I find out why. My approach:**
-
 Understand the expected behavior
 Reproduce the issue when possible
 Compare expected and actual results
