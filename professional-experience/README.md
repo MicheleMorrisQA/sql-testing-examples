@@ -1,115 +1,279 @@
-**Professional Experience**
-**Summary**
+# QA Engineering & Quality Assurance Portfolio
 
-Quality Engineering and Program Leadership professional with 20+ years across FinTech, banking technology, SaaS, HealthTech, utilities, and large enterprise platforms. My work has grown from hands-on software testing into QA management, release governance, risk management, automation strategy, and cross-functional program delivery.
+Welcome to my Quality Assurance portfolio! This repository showcases my experience, technical skills, testing methodologies, sample deliverables, and reporting practices across software testing, banking technology, fintech, healthcare SaaS, and enterprise IT.
 
-I lead teams, bring structure to release and change processes, and keep stakeholders informed about progress, risk, and delivery readiness. I also stay hands-on when needed, investigating defects, data, APIs, and integrations until a problem is understood, resolved, and validated.
+With 20+ years of experience in Quality Assurance, I bring a combination of hands-on technical testing, automation, QA leadership, process improvement, and release governance.
 
-**Core Competencies**
-**Area	Highlights**
-Product & Domain SME	Deep end-to-end knowledge of banking, payments, and fintech platforms (onboarding, KYC, ACH, cards, ledger, billing, fraud) and enterprise systems (SAP, AS/400)
-QA Leadership & Management	Leading onshore and offshore QA teams, QA strategy, test planning, defect management, quality governance, UAT coordination
-Program & Delivery Management	Cross-functional coordination, dependency and priority management, risk identification, delivery readiness, stakeholder visibility
-Release & Change Governance	Release readiness, go/no-go risk assessment, change management, approvals, implementation planning, documentation
-Process Improvement	Six Sigma Yellow Belt, Lean Six Sigma practices, process measurement, standardized practices, throughput improvement
-Compliance & Controls	SOX testing and audit support, traceability, evidence, regulated financial environments
-Technical Investigation	SQL, Postman, browser developer tools, logs, dashboards, transaction and data analysis
-Test Automation	190+ automated tests, strategic automation aligned to business value and risk
-AI-Assisted QE	Atlassian Rovo, Google Gemini for requirements analysis, test design, traceability, and release readiness
-Certifications & Professional Development
-Six Sigma Yellow Belt
-Lean Six Sigma practitioner: applied these practices in QA operations (see American Water)
-Continuing development in Quality Engineering, automation, APIs, SQL and database testing, cloud environments, and AI-assisted testing
-Selected Achievements
-Led a QA team of 10 direct reports supporting systems used across 1,600+ municipalities in 16 states (American Water)
-Applied Lean Six Sigma practices to improve QA processes and increase QA throughput by approximately 25% (American Water)
-Led automation initiatives that produced 190+ automated tests (TotalTrax)
-Established QA strategy, release readiness, and quality governance for a regulated FinTech and banking platform (DreamFi)
-Created and administered the company GitHub organization and helped establish sandbox, test, and Production environments on AWS (DreamFi)
+My approach to quality extends beyond identifying defects. I focus on validating business requirements, ensuring data integrity, evaluating system integrations, measuring quality, managing risk, and supporting informed release decisions.
 
-**Product & Domain Expertise (Subject Matter Expert)**
+---
 
-Beyond testing the products, I learn how they work end to end: the business rules, the data, the integrations, and where things break. Teams rely on me to explain how a product behaves, what a change will affect, and what the expected result should be.
+## Professional Focus
 
-**Product / Platform	Where	What I know well**
-Banking & FinTech platform	DreamFi	Customer onboarding and KYC, ACH and financial transactions, card services, billing, ledger functionality, fraud prevention, banking operations, and the third-party banking integrations behind them
-Payments / lending platform	FinPay	Web and mobile workflows, APIs, Salesforce processes, and how data moves between third-party systems
-Enterprise utility systems	American Water	SAP, AS/400, web, mobile, and client-server applications serving 1,600+ municipalities in 16 states, including billing and customer-facing workflows
-Warehouse / logistics platform	TotalTrax	Core application workflows and the regression suite covering them (190+ automated tests)
+- QA Strategy, Leadership & Governance
+- Functional, Integration, Regression & End-to-End Testing
+- API Testing & Database Validation
+- Test Automation & Quality Engineering
+- Banking, Fintech & Financial Transaction Testing
+- Test Management & Requirements Traceability
+- Defect Management & Root Cause Analysis
+- AWS Cloud & CI/CD
+- QA Metrics, Reporting & Analytics
+- Release Readiness & Go/No-Go Assessments
+- Process Improvement & Change Management
 
-**How I apply this expertise**
+---
 
-Serve as the go-to resource for how a feature should behave, which speeds up requirements review and test design
-Assess the impact of a change across connected systems before release
-Trace a transaction or business process from the originating request through APIs, the database, and third-party systems
-Translate product behavior for Engineering, Product, Compliance, and Operations
-Train and onboard QA team members and stakeholders on product workflows
-Use that knowledge to support UAT, production investigations, and release go/no-go decisions
-DreamFi: Quality Engineering Leadership
+## Technical Skills & Tools
 
-**FinTech and banking environment**
+| Category | Tools & Technologies |
+|---|---|
+| Database Testing | SQL, SQLite, PostgreSQL, database queries |
+| API Testing | Postman, Swagger/OpenAPI |
+| Test Management | Zephyr, Jira, HP ALM / Quality Center |
+| Test Automation | Cypress, TestComplete, QTP |
+| Reporting & Analytics | Zephyr Dashboards, Excel, Power BI, PostHog |
+| Monitoring & Troubleshooting | Browser Developer Tools, application logs, Grafana, Datadog |
+| Test Documentation | Test plans, test cases, test data, defect reports, test results |
+| Cloud & Delivery | AWS, CI/CD pipelines |
+| Collaboration & Documentation | Jira, Confluence |
 
-I provide overall QA direction and own quality strategy, release readiness, risk assessment, defect management, automation direction, and quality governance. The QA team began with five resources and now consists of three specialized roles covering web, mobile, and automation.
+---
 
-**Leadership and program responsibilities**
+# QA Portfolio – Sample Deliverables & Work Products
 
-Establish QA strategy and testing direction across web, mobile, and automation
-Manage release readiness and quality risk, and set validation expectations before Production releases
-Review defects for business impact and support test planning and coverage decisions
-Coordinate with Product, Engineering, Compliance, Banking Operations, vendors, and offshore development teams
-Make clear what is changing, what could go wrong, what is impacted, what testing is required, and what risks remain before release
+The following sections highlight representative QA deliverables and testing examples.
 
-Domain experience: customer onboarding, financial transactions, ACH, fraud prevention, banking operations, card services, KYC, billing, ledger functionality, third-party banking integrations. Regulated environments demand data integrity, traceability, documentation, controls, and evidence.
+## QA Test Execution Dashboard
 
-Release governance approach: I evaluate risk based on evidence, business impact, test coverage, and the ability to validate the change.
-**
+**Tools:** Zephyr, Jira, Excel, Power BI
 
-**Technical and DevOps support****
-Before a VP of Technology was hired, acted as DevOps resource and worked with offshore ledger developers to establish sandbox, test, and Production environments through GoDaddy and AWS
-Continued as a backup technical resource afterward
-Created and administered the company GitHub organization: team access, seat management, repository administration, and GitHub usage for development and QA teams
+- Test execution progress and completion percentages
+- Passed, failed, blocked, and pending test cases
+- Requirements and test coverage
+- Defect counts by severity and priority
+- Release progress and quality metrics
 
-**American Water:** QA Leadership
-Enterprise utility environment, nearly 10 years
-Led QA and UAT activities for systems supporting 1,600+ municipalities across 16 states, spanning SAP, AS/400, web, mobile, and client-server applications.
-Led a QA team of 10 direct reports
-Managed test planning and execution, UAT support, and coordination with technical and business teams
-Administered HP ALM / Quality Center for test management, requirements traceability, test cycles, defect tracking, and QA reporting
-Supported SOX testing and audit activities, maintaining documentation, traceability, evidence, and controls
-Applied Lean Six Sigma practices to measure processes, find inefficiencies, and increase QA throughput by approximately 25%
-Gained experience in IT change management, compliance, approvals, implementation planning, and project documentation
+**Sample Metric:** 87% test execution progress for Release 2.0.40.
 
-**TotalTrax:** Automation & Quality Engineering
+## API Testing & Validation
 
-Led automation initiatives resulting in 190+ automated tests. My approach is to automate strategically: meaningful coverage, faster feedback, less repetitive manual work, stronger regression testing, and greater release confidence, so that people can focus on investigation, exploratory testing, and risk.
+**Tools:** Postman, Swagger/OpenAPI
 
-**FinPay:** Cross-System QA
+- API requests and responses
+- HTTP status code validation
+- Request and response payload verification
+- Authentication and error handling
+- Positive and negative test scenarios
+- Defect documentation and retesting results
 
-Led QA operations across web, mobile, APIs, Salesforce, and third-party integrations.
-Functional, regression, and integration testing and validation of business workflows
-API testing: request and response validation, HTTP status codes, data consistency, error handling, required fields, and negative scenarios
-Investigated issues across platforms rather than assuming failures originated in the application under test
-Technical Investigation & Problem Solving
+**Sample Artifacts:** Postman collections, API validation reports, request/response examples, and defect documentation.
 
-**When something does not work as expected, I find out why. My approach:**
-Understand the expected behavior
-Reproduce the issue when possible
-Compare expected and actual results
-Review application behavior, data, transactions, APIs, integrations, and logs
-Determine scope and business impact
-Work with the right technical teams
-Validate the implemented fix
+## SQL & Database Validation
 
-**Tools:** SQL, Postman, browser developer tools, test data, logs, dashboards, transaction and database information, API requests and responses.
+**Tools:** SQL, SQLite, PostgreSQL
 
-I translate findings for different audiences: engineers get technical evidence, while Product, Compliance, and Operations get business impact and next steps.
+- Transaction and database record verification
+- Data integrity and consistency checks
+- Expected versus actual results
+- Transaction reconciliation
+- Backend validation of application workflows
+- Identification and documentation of data discrepancies
 
-**AI in Quality Engineering**
+**Sample Artifacts:** SQL queries, database validation results, transaction verification, and data comparison reports.
 
-I use Atlassian Rovo and Google Gemini for requirements analysis, test and scenario development, edge-case identification, defect analysis, documentation, traceability, knowledge management, and release-readiness work. AI accelerates analysis, but quality decisions still rest on technical judgment, domain knowledge, testing evidence, and human validation.
+## Defect Management & Analysis
 
-**Career Progression**
+**Tools:** Jira, Zephyr, Excel
 
-Hands-on QA → QA team leadership → automation and quality engineering → release governance and risk management → cross-functional technical program leadership.
+- Defect identification and documentation
+- Severity and priority classification
+- Root cause analysis and defect trends
+- Defect lifecycle and resolution tracking
+- Retesting and regression validation
+- Outstanding defect assessment for release decisions
 
-What has stayed constant is ownership: understanding how something works, figuring out why it is not, and working with the right people to get it resolved.
+**Sample Artifacts:** Defect logs, severity reports, defect trend analysis, and resolution tracking.
+
+## Requirements Traceability
+
+**Tools:** Zephyr, Jira, HP ALM / Quality Center, Excel
+
+- Business and technical requirements mapped to test cases
+- Requirements coverage and testing status
+- Test execution results linked to requirements
+- Defect-to-requirement traceability
+- Identification of testing gaps and coverage risks
+
+**Sample Artifacts:** Requirements Traceability Matrix (RTM), test coverage reports, and test case mapping.
+
+## Release Readiness & Go/No-Go Assessment
+
+**Tools:** Zephyr, Jira, Excel, Confluence
+
+- Overall test execution and coverage
+- Critical and high-priority defect status
+- Outstanding testing and release risks
+- Regression and integration testing results
+- Business impact assessment
+- Go/no-go recommendations and stakeholder reporting
+
+**Sample Artifacts:** Release readiness reports, QA sign-off documentation, risk assessments, and release status dashboards.
+
+## End-to-End Financial Transaction Testing
+
+**Tools:** Postman, SQL, Browser Developer Tools, application logs
+
+- Transaction initiation and processing
+- API and backend transaction validation
+- Database record verification
+- Payment and ACH workflow testing
+- Error handling, transaction failures, and reversals
+- End-to-end validation across integrated systems
+
+**Sample Artifacts:** Financial transaction test scenarios, API validations, SQL verification, and transaction workflow reports.
+
+## QA Process Improvement & Governance
+
+**Tools:** Jira, Zephyr, Confluence, Excel
+
+- Standardized test processes and documentation
+- Test case review and approval practices
+- QA metrics and reporting standards
+- Risk-based testing approaches
+- Defect management and escalation procedures
+- Release governance and continuous improvement
+
+**Sample Artifacts:** QA standards, process documentation, test review checklists, and governance reports.
+
+## CI/CD & Cloud Testing
+
+**Tools:** AWS, CI/CD pipelines, Cypress, Postman
+
+- Automated test integration into delivery pipelines
+- Validation of application builds and deployments
+- Regression testing following code changes
+- Environment and configuration validation
+- Identification and reporting of deployment-related issues
+
+**Sample Artifacts:** CI/CD testing documentation, automation execution results, and cloud testing scenarios.
+
+---
+
+# Sample QA Metrics & KPIs
+
+The following illustrative metrics demonstrate how QA performance, testing progress, defect trends, and release readiness can be measured and communicated to stakeholders.
+
+| QA Metric | Sample Result |
+|---|---:|
+| Test Execution Progress | 87% |
+| Test Cases Passed | 92% |
+| Test Cases Failed | 5% |
+| Test Cases Blocked | 3% |
+| Requirements Coverage | 96% |
+| Defect Resolution Rate | 90% |
+| Critical Defects Open | 0 |
+| Regression Test Pass Rate | 95% |
+| API Validation Pass Rate | 98% |
+| Automation Coverage | 75% |
+| Defect Reopen Rate | 4% |
+| UAT Acceptance Rate | 94% |
+
+*Note: These are illustrative portfolio metrics, not verified historical project results. Each metric should be supported by its own documented calculation, reporting period, and sample dataset.*
+
+### Quality & Release Performance Indicators
+
+**Test Execution**
+- Tracks completed, passed, failed, and blocked test cases.
+- Measures testing progress against planned execution.
+
+**Defect Management**
+- Measures defect severity, resolution, reopening, and leakage.
+- Identifies recurring issues and quality trends.
+
+**Test Coverage**
+- Evaluates requirements traceability and functional coverage.
+- Identifies gaps in testing and potential release risks.
+
+**Automation Effectiveness**
+- Measures automated test coverage and execution efficiency.
+- Tracks regression testing results and automation opportunities.
+
+**Release Readiness**
+- Evaluates outstanding defects, testing completion, and overall release risk.
+- Supports informed go/no-go decisions.
+
+**Production Quality**
+- Tracks post-release defects and recurring issues.
+- Evaluates the effectiveness of testing before deployment.
+
+---
+
+## Sample Dashboards & Reporting
+
+Portfolio dashboard examples will demonstrate how testing information can be transformed into meaningful reporting for technical teams and business stakeholders.
+
+### QA Test Execution Dashboard
+- Execution progress
+- Passed, failed, blocked, and pending tests
+- Requirements coverage
+- Test completion trends
+
+### Defect Management Dashboard
+- Open defects by severity
+- Defects resolved versus outstanding
+- Defect aging and reopen rates
+- Defect trends by release
+
+### Release Readiness Dashboard
+- Requirements coverage
+- Regression pass rate
+- Critical defects outstanding
+- Testing completion
+- Release risks and go/no-go recommendation
+
+---
+
+## About My Approach to Quality
+
+I believe effective Quality Assurance is a shared responsibility throughout the software development lifecycle.
+
+My focus is on building structured, repeatable testing processes, promoting collaboration between business and technical teams, identifying risks early, and using meaningful metrics to improve software quality and delivery outcomes.
+
+I bring a leadership mindset combined with hands-on technical knowledge, with an emphasis on continuous improvement, accountability, and delivering reliable technology solutions.
+
+---
+
+*Portfolio Disclaimer: Examples and sample datasets are intended for demonstration and educational purposes. No confidential employer, customer, or production information is included. Tool listings may include technologies used professionally as well as tools explored through portfolio development.*
+
+## Program Management & Delivery Leadership
+
+In addition to QA leadership, I bring hands-on experience supporting project delivery, coordinating cross-functional teams, managing work visibility, and communicating quality risks and delivery status to management.
+
+**Program & Project Coordination**
+- Supported project execution and delivery coordination across technical and business teams.
+- Managed Jira boards and monitored work items during Project Manager absences.
+- Tracked assignments, progress, outstanding tasks, and delivery blockers.
+- Helped maintain visibility into project priorities and work status.
+
+**Agile & Work Management**
+- Hands-on Jira board management and work-item tracking.
+- Supported sprint and delivery coordination.
+- Monitored task status, outstanding work, and dependencies.
+- Collaborated with QA, development, and business stakeholders.
+
+**Defect Triage & Risk Management**
+- Facilitated defect triage meetings with senior management and cross-functional stakeholders.
+- Reviewed defect severity, priority, business impact, and release risk.
+- Coordinated issue escalation, ownership, and follow-up actions.
+- Communicated defect trends and quality risks to leadership.
+
+**Executive Communication & Reporting**
+- Presented QA status, defect trends, testing progress, and release risks.
+- Provided management visibility into project health and delivery readiness.
+- Supported go/no-go decisions through quality metrics and risk assessments.
+
+**Governance & Process Improvement**
+- Supported change management, approvals, and implementation planning.
+- Promoted consistent processes, accountability, documentation, and delivery standards.
+- Applied risk-based decision-making to support successful releases.
